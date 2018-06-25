@@ -1,0 +1,133 @@
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v3\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.exe.config
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v3\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.exe
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v3\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v3\MIlkRunApp_v1\bin\Debug\GraphSharp.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v3\MIlkRunApp_v1\bin\Debug\GraphSharp.Contracts.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v3\MIlkRunApp_v1\bin\Debug\PictureBox.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v3\MIlkRunApp_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v3\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.Properties.Resources.resources
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v3\MIlkRunApp_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v3\MIlkRunApp_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v3\MIlkRunApp_v1\obj\x86\Debug\MIlkRunApp_v3.exe
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v3\MIlkRunApp_v1\obj\x86\Debug\MIlkRunApp_v3.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v3\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.Form1.resources
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v3\MIlkRunApp_v1\obj\x86\Debug\Interop.Office.dll
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v3\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.csproj.ResolveComReference.cache
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v4\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.exe.config
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v4\MIlkRunApp_v1\obj\x86\Debug\Interop.Office.dll
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v4\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.csproj.ResolveComReference.cache
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v4\MIlkRunApp_v1\obj\x86\Debug\MIlkRunApp_v3.exe
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v4\MIlkRunApp_v1\obj\x86\Debug\MIlkRunApp_v3.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v4\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.exe
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v4\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v4\MIlkRunApp_v1\bin\Debug\GraphSharp.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v4\MIlkRunApp_v1\bin\Debug\GraphSharp.Contracts.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v4\MIlkRunApp_v1\bin\Debug\PictureBox.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v4\MIlkRunApp_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v4\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.Form1.resources
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v4\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.Properties.Resources.resources
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v4\MIlkRunApp_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v4\MIlkRunApp_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v5\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.exe.config
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v5\MIlkRunApp_v1\obj\x86\Debug\Interop.Office.dll
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v5\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.csproj.ResolveComReference.cache
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v5\MIlkRunApp_v1\obj\x86\Debug\MIlkRunApp_v3.exe
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v5\MIlkRunApp_v1\obj\x86\Debug\MIlkRunApp_v3.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v5\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.exe
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v5\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v5\MIlkRunApp_v1\bin\Debug\GraphSharp.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v5\MIlkRunApp_v1\bin\Debug\GraphSharp.Contracts.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v5\MIlkRunApp_v1\bin\Debug\PictureBox.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v5\MIlkRunApp_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v5\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.Form1.resources
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v5\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.Properties.Resources.resources
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v5\MIlkRunApp_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SZTAKI\MilkRun\MilkRunApp\MIlkRunApp_v5\MIlkRunApp_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SZTAKI\MilkRun\MilkRunApp\DEMO\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.exe.config
+D:\SZTAKI\MilkRun\MilkRunApp\DEMO\MIlkRunApp_v1\obj\x86\Debug\Interop.Office.dll
+D:\SZTAKI\MilkRun\MilkRunApp\DEMO\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.csproj.ResolveComReference.cache
+D:\SZTAKI\MilkRun\MilkRunApp\DEMO\MIlkRunApp_v1\obj\x86\Debug\MIlkRunApp_v3.exe
+D:\SZTAKI\MilkRun\MilkRunApp\DEMO\MIlkRunApp_v1\obj\x86\Debug\MIlkRunApp_v3.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\DEMO\MIlkRunApp_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SZTAKI\MilkRun\MilkRunApp\DEMO\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.Form1.resources
+D:\SZTAKI\MilkRun\MilkRunApp\DEMO\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.Properties.Resources.resources
+D:\SZTAKI\MilkRun\MilkRunApp\DEMO\MIlkRunApp_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SZTAKI\MilkRun\MilkRunApp\DEMO\MIlkRunApp_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SZTAKI\MilkRun\MilkRunApp\DEMO\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.exe
+D:\SZTAKI\MilkRun\MilkRunApp\DEMO\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\DEMO\MIlkRunApp_v1\bin\Debug\GraphSharp.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\DEMO\MIlkRunApp_v1\bin\Debug\GraphSharp.Contracts.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\DEMO\MIlkRunApp_v1\bin\Debug\PictureBox.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\DEMO\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.AboutBox1.resources
+D:\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.exe.config
+D:\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\Interop.Office.dll
+D:\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.csproj.ResolveComReference.cache
+D:\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\MIlkRunApp_v3.exe
+D:\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\MIlkRunApp_v3.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.exe
+D:\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\bin\Debug\PictureBox.pdb
+D:\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.AboutBox1.resources
+D:\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.Form1.resources
+D:\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.Properties.Resources.resources
+D:\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Adatok\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.exe.config
+C:\Adatok\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Adatok\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.csproj.ResolveComReference.cache
+C:\Adatok\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\MIlkRunApp_v3.exe
+C:\Adatok\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\MIlkRunApp_v3.pdb
+C:\Adatok\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.exe
+C:\Adatok\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.pdb
+C:\Adatok\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\bin\Debug\PictureBox.pdb
+C:\Adatok\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Adatok\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.AboutBox1.resources
+C:\Adatok\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.Form1.resources
+C:\Adatok\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.Properties.Resources.resources
+C:\Adatok\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Adatok\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Adatok\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\bin\Debug\MoreLinq.dll
+C:\Adatok\SZTAKI\MilkRun\MilkRunApp\MilkRunApp_v6\MIlkRunApp_v1\bin\Debug\MoreLinq.xml
+C:\Users\david\Desktop\milkrun\MilkRunApp_v7\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.exe.config
+C:\Users\david\Desktop\milkrun\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\david\Desktop\milkrun\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.csproj.ResolveComReference.cache
+C:\Users\david\Desktop\milkrun\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MIlkRunApp_v3.exe
+C:\Users\david\Desktop\milkrun\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MIlkRunApp_v3.pdb
+C:\Users\david\Desktop\milkrun\MilkRunApp_v7\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.exe
+C:\Users\david\Desktop\milkrun\MilkRunApp_v7\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.pdb
+C:\Users\david\Desktop\milkrun\MilkRunApp_v7\MIlkRunApp_v1\bin\Debug\MoreLinq.dll
+C:\Users\david\Desktop\milkrun\MilkRunApp_v7\MIlkRunApp_v1\bin\Debug\MoreLinq.xml
+C:\Users\david\Desktop\milkrun\MilkRunApp_v7\MIlkRunApp_v1\bin\Debug\PictureBox.pdb
+C:\Users\david\Desktop\milkrun\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\david\Desktop\milkrun\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.AboutBox1.resources
+C:\Users\david\Desktop\milkrun\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.Form1.resources
+C:\Users\david\Desktop\milkrun\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.Properties.Resources.resources
+C:\Users\david\Desktop\milkrun\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\david\Desktop\milkrun\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\david\Desktop\Milkrun DEMO\MilkRunApp_v7\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.exe.config
+C:\Users\david\Desktop\Milkrun DEMO\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\david\Desktop\Milkrun DEMO\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.csproj.ResolveComReference.cache
+C:\Users\david\Desktop\Milkrun DEMO\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MIlkRunApp_v3.exe
+C:\Users\david\Desktop\Milkrun DEMO\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MIlkRunApp_v3.pdb
+C:\Users\david\Desktop\Milkrun DEMO\MilkRunApp_v7\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.exe
+C:\Users\david\Desktop\Milkrun DEMO\MilkRunApp_v7\MIlkRunApp_v1\bin\Debug\MIlkRunApp_v3.pdb
+C:\Users\david\Desktop\Milkrun DEMO\MilkRunApp_v7\MIlkRunApp_v1\bin\Debug\MoreLinq.dll
+C:\Users\david\Desktop\Milkrun DEMO\MilkRunApp_v7\MIlkRunApp_v1\bin\Debug\MoreLinq.xml
+C:\Users\david\Desktop\Milkrun DEMO\MilkRunApp_v7\MIlkRunApp_v1\bin\Debug\PictureBox.pdb
+C:\Users\david\Desktop\Milkrun DEMO\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\david\Desktop\Milkrun DEMO\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.AboutBox1.resources
+C:\Users\david\Desktop\Milkrun DEMO\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.Form1.resources
+C:\Users\david\Desktop\Milkrun DEMO\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.Properties.Resources.resources
+C:\Users\david\Desktop\Milkrun DEMO\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\david\Desktop\Milkrun DEMO\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Adatok\SZTAKI\MilkRun\Milkrun_demo_2013_06_12\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.csprojResolveAssemblyReference.cache
+C:\Adatok\SZTAKI\MilkRun\Milkrun_demo_2013_06_12\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Adatok\SZTAKI\MilkRun\Milkrun_demo_2013_06_12\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.csproj.ResolveComReference.cache
+C:\Adatok\SZTAKI\MilkRun\Milkrun_demo_2013_06_12\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.AboutBox1.resources
+C:\Adatok\SZTAKI\MilkRun\Milkrun_demo_2013_06_12\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.Form1.resources
+C:\Adatok\SZTAKI\MilkRun\Milkrun_demo_2013_06_12\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.Properties.Resources.resources
+C:\Adatok\SZTAKI\MilkRun\Milkrun_demo_2013_06_12\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.csproj.GenerateResource.Cache
+C:\Adatok\SZTAKI\MilkRun\Milkrun_demo_2013_06_12\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MilkRunApp_v3.csproj.CoreCompileInputs.cache
+C:\Adatok\SZTAKI\MilkRun\Milkrun_demo_2013_06_12\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MIlkRunApp_v3.exe
+C:\Adatok\SZTAKI\MilkRun\Milkrun_demo_2013_06_12\MilkRunApp_v7\MIlkRunApp_v1\obj\x86\Debug\MIlkRunApp_v3.pdb

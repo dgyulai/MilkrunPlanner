@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<RouteNode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <id>r1</id>
+  <x_coord>234</x_coord>
+  <y_coord>554</y_coord>
+  <label>0</label>
+  <labeltype>false</labeltype>
+</RouteNode>
